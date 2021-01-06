@@ -1,0 +1,5 @@
+[requires]
+  boron/1.4.2@hicktech/particle
+
+[generators]
+  cmake
